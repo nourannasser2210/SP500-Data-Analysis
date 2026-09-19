@@ -30,7 +30,6 @@ The analysis explores stock prices, trading volume, company performance, sectors
 The project uses S&P 500 data containing information about companies, the S&P 500 index, and historical stock prices.
 
 The main datasets include:
-
 * `sp500_companies.csv`
 * `sp500_index.csv`
 * `sp500_stocks.csv`
