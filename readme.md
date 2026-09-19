@@ -20,7 +20,6 @@ The analysis explores stock prices, trading volume, company performance, sectors
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Plotly
